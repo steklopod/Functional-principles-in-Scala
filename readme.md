@@ -1,15 +1,14 @@
 # Functional Programming Principles in Scala
 
-## Course details
-Course: https://class.coursera.org/progfun-005  
-Instructor: Martin Odersky
+https://class.coursera.org/progfun-005  
+Преподаватель: Мартин Одерски [Martin Odersky] (создатель яп Scala)
 
-[Week 1: Functions & Evaluations](Week 1 - Functions & Evaluations)  
-[Week 2: Higher Order Functions](Week 2 - Higher Order Functions)  
-[Week 3: Data and Abstraction](Week 3 - Data and Abstraction)  
-[Week 4: Types and Pattern Matching](Week 4 - Types and Pattern Matching)  
-[Week 5: Lists](Week 5 - Lists)  
-[Week 6: Collections](Week 6 - Collections)  
+[Week 1: Functions & Evaluations](Нед. 1 - Functions & Evaluations)  Функции и их вызовы
+[Week 2: Higher Order Functions](Нед. 2 - Higher Order Functions)  Функции высшего порядка
+[Week 3: Data and Abstraction](Нед. 3 - Data and Abstraction)  Данные и Абстракции
+[Week 4: Types and Pattern Matching](Нед. 4 - Types and Pattern Matching)  Типы и Паттерн 'Сопоставление'
+[Week 5: Lists](Нед. 5 - Lists)  Спислки
+[Week 6: Collections](Нед. 6 - Collections) Коллекции
 
 
 ## Evaluation Rules
