@@ -1,7 +1,7 @@
 # Functional Programming Principles in Scala
 
 https://class.coursera.org/progfun-005  
-Преподаватель: Мартин Одерски [Martin Odersky] (создатель яп Scala)
+Преподаватель: создатель яп Scala - Мартин Одерски (Martin Odersky)
 
 [Week 1: Functions & Evaluations](Нед. 1 -  Функции и их вызовы, Functions & Evaluations) 
 [Week 2: Higher Order Functions](Нед. 2 -  Функции высшего порядка, Higher Order Functions)
