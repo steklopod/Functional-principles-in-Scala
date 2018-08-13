@@ -3,12 +3,12 @@
 https://class.coursera.org/progfun-005  
 Преподаватель: Мартин Одерски [Martin Odersky] (создатель яп Scala)
 
-[Week 1: Functions & Evaluations](Нед. 1 - Functions & Evaluations)  Функции и их вызовы
-[Week 2: Higher Order Functions](Нед. 2 - Higher Order Functions)  Функции высшего порядка
-[Week 3: Data and Abstraction](Нед. 3 - Data and Abstraction)  Данные и Абстракции
-[Week 4: Types and Pattern Matching](Нед. 4 - Types and Pattern Matching)  Типы и Паттерн 'Сопоставление'
-[Week 5: Lists](Нед. 5 - Lists)  Спислки
-[Week 6: Collections](Нед. 6 - Collections) Коллекции
+[Week 1: Functions & Evaluations](Нед. 1 -  Функции и их вызовы //Functions & Evaluations) 
+[Week 2: Higher Order Functions](Нед. 2 -  Функции высшего порядка //Higher Order Functions)
+[Week 3: Data and Abstraction](Нед. 3 - Данные и Абстракции //Data and Abstraction)
+[Week 4: Types and Pattern Matching](Нед. 4 - Типы и Паттерн 'Сопоставление' //Types and Pattern Matching)
+[Week 5: Lists](Нед. 5 - Списки //Lists)
+[Week 6: Collections](Нед. 6 - Коллекции //Collections)
 
 
 ## Evaluation Rules
