@@ -1,6 +1,6 @@
 name := course.value + "-" + assignment.value
 
-scalaVersion := "2.11.12"
+scalaVersion := "2.12.5"
 
 scalacOptions ++= Seq("-deprecation")
 

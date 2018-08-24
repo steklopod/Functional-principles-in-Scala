@@ -1,5 +1,5 @@
-course := "progfun1"
-assignment := "recfun"
+course := "Functional Programming Principles"
+assignment := " in Scala"
 
 assignmentInfo := AssignmentInfo(
   key = "SNYuDzZEEeWNVyIAC92BaQ",
